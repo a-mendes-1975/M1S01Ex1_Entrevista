@@ -1,0 +1,15 @@
+G:\Meu Drive\AIX_Cursos\FloripaTech\FULL_STACK\SEMANA 1\entrevista\bin\Debug\net7.0\entrevista.exe
+G:\Meu Drive\AIX_Cursos\FloripaTech\FULL_STACK\SEMANA 1\entrevista\bin\Debug\net7.0\entrevista.deps.json
+G:\Meu Drive\AIX_Cursos\FloripaTech\FULL_STACK\SEMANA 1\entrevista\bin\Debug\net7.0\entrevista.runtimeconfig.json
+G:\Meu Drive\AIX_Cursos\FloripaTech\FULL_STACK\SEMANA 1\entrevista\bin\Debug\net7.0\entrevista.dll
+G:\Meu Drive\AIX_Cursos\FloripaTech\FULL_STACK\SEMANA 1\entrevista\bin\Debug\net7.0\entrevista.pdb
+G:\Meu Drive\AIX_Cursos\FloripaTech\FULL_STACK\SEMANA 1\entrevista\obj\Debug\net7.0\entrevista.csproj.AssemblyReference.cache
+G:\Meu Drive\AIX_Cursos\FloripaTech\FULL_STACK\SEMANA 1\entrevista\obj\Debug\net7.0\entrevista.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\AIX_Cursos\FloripaTech\FULL_STACK\SEMANA 1\entrevista\obj\Debug\net7.0\entrevista.AssemblyInfoInputs.cache
+G:\Meu Drive\AIX_Cursos\FloripaTech\FULL_STACK\SEMANA 1\entrevista\obj\Debug\net7.0\entrevista.AssemblyInfo.cs
+G:\Meu Drive\AIX_Cursos\FloripaTech\FULL_STACK\SEMANA 1\entrevista\obj\Debug\net7.0\entrevista.csproj.CoreCompileInputs.cache
+G:\Meu Drive\AIX_Cursos\FloripaTech\FULL_STACK\SEMANA 1\entrevista\obj\Debug\net7.0\entrevista.dll
+G:\Meu Drive\AIX_Cursos\FloripaTech\FULL_STACK\SEMANA 1\entrevista\obj\Debug\net7.0\refint\entrevista.dll
+G:\Meu Drive\AIX_Cursos\FloripaTech\FULL_STACK\SEMANA 1\entrevista\obj\Debug\net7.0\entrevista.pdb
+G:\Meu Drive\AIX_Cursos\FloripaTech\FULL_STACK\SEMANA 1\entrevista\obj\Debug\net7.0\entrevista.genruntimeconfig.cache
+G:\Meu Drive\AIX_Cursos\FloripaTech\FULL_STACK\SEMANA 1\entrevista\obj\Debug\net7.0\ref\entrevista.dll
