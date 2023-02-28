@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Meu Drive\\AIX_Cursos\\FloripaTech\\FULL_STACK\\SEMANA 1\\entrevista\\entrevista.csproj",
+      "projectUniqueName": "G:\\Meu Drive\\AIX_Cursos\\FloripaTech\\FULL_STACK\\SEMANA 1\\M1S01Ex1_Entrevista\\entrevista.csproj",
       "projectName": "entrevista",
-      "projectPath": "G:\\Meu Drive\\AIX_Cursos\\FloripaTech\\FULL_STACK\\SEMANA 1\\entrevista\\entrevista.csproj",
+      "projectPath": "G:\\Meu Drive\\AIX_Cursos\\FloripaTech\\FULL_STACK\\SEMANA 1\\M1S01Ex1_Entrevista\\entrevista.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "G:\\Meu Drive\\AIX_Cursos\\FloripaTech\\FULL_STACK\\SEMANA 1\\entrevista\\obj\\",
+      "outputPath": "G:\\Meu Drive\\AIX_Cursos\\FloripaTech\\FULL_STACK\\SEMANA 1\\M1S01Ex1_Entrevista\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
