@@ -26,6 +26,8 @@ namespace entrevista
             System.Console.WriteLine("Sobrenome: " + sobrenome); //Sobrenome: {sobrenome Usuário}
             System.Console.WriteLine("Idade: " + idade); //Idade: {idade Usuário}
             System.Console.WriteLine("Cor Favorita: " + cor); //Cor Favorita: {cor Favorita Usuário}
+            
+            System.Console.WriteLine("-------------------------------------------------------------------------");
 
 
         }
